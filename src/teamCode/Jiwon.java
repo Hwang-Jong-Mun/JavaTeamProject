@@ -4,7 +4,7 @@ public class Jiwon {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Jwion");
+		System.out.println("Jiwon");
 	}
 
 }
